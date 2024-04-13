@@ -11,10 +11,6 @@
 			"filterable": 0,
 			"playerType": 2,
 			"api": "csp_aNanGua",
-			
-			  "ext": {
-        "danmu": true
-      },
       "timeout": 10
 	  
 	  
